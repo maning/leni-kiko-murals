@@ -50,12 +50,12 @@ var config = {
             hidden: false,
             title: 'Second Title',
             image: './path/to/image/source.png',
-            description: 'Copy these sections to add to your story.',
+            description: 'Near water station',
             location: {
-                center: [-77.020636, 38.886900],
-                zoom: 8.5,
+                center: [121.09269, 14.62263,
+                zoom: 20,
                 pitch: 60,
-                bearing: -43.2,
+                bearing: -88,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
                 // slowly and zoom out almost completely before starting
