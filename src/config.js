@@ -52,7 +52,7 @@ var config = {
             image: './path/to/image/source.png',
             description: 'Near water station',
             location: {
-                center: [121.09269, 14.62263,
+                center: [121.09269, 14.62263],
                 zoom: 20,
                 pitch: 60,
                 bearing: -88,
