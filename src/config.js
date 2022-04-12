@@ -18,14 +18,14 @@ var config = {
             id: 'slug-style-id',
             alignment: 'left',
             hidden: false,
-            title: 'Kulay rosas ang bukas',
+            title: 'I. Mendoza San Roque, Marikina',
             image: './images/1.png',
-            description: 'I. Mendoza near Rustic Mornings.  Artist: Uknown',
+            description: 'Artist: Uknown',
             location: {
                 center: [121.09605, 14.62926],
                 zoom: 19,
                 pitch: 60,
-                bearing: 176
+                bearing: 167
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -94,7 +94,7 @@ var config = {
             hidden: false,
             title: 'Third Title',
             image: './images/montage.png',
-            description: 'Copy these sections to add to your story.',
+            description: 'To add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
             location: {
                 center: [121.10903, 14.64689],
                 zoom: 13,
