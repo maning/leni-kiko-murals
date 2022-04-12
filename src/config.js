@@ -1,7 +1,7 @@
 var config = {
     style: 'mapbox://styles/maningsambale/cl1umv5mx007115ozb5397dlk',
     accessToken: 'pk.eyJ1IjoibWFuaW5nc2FtYmFsZSIsImEiOiJjamx3YTQya2ExNWdlM3FwM3Z1YWp2bHZrIn0.mk2emL4LkX_uwFPq7nHZsA',
-    showMarkers: true,
+    showMarkers: false,
     markerColor: '#FF44CC',
     //projection: 'equirectangular',
     //Read more about available projections here
@@ -93,11 +93,11 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'Third Title',
-            image: './path/to/image/source.png',
+            image: './images/montage.png',
             description: 'Copy these sections to add to your story.',
             location: {
                 center: [121.10903, 14.64689],
-                zoom: 13.5,
+                zoom: 13,
                 pitch: 0,
                 bearing: 0
             },
