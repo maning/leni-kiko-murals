@@ -73,9 +73,9 @@ var config = {
             id: 'third-identifier',
             alignment: 'left',
             hidden: false,
-            title: 'Abad Santos San Roque, Marikina',
-            image: './path/to/image/source.png',
-            description: 'Copy these sections to add to your story.',
+            title: 'Jose Abad Santos San Roque, Marikina',
+            image: './images/abadsantos.jpg',
+            description: 'Frain_Manbiotan, Jafet Mercado, @pudpodnalapis, @_sarcartist, @colthyy, xenia',
             location: {
                 center: [121.09745, 14.62315],
                 zoom: 19,
