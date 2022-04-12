@@ -9,9 +9,9 @@ var config = {
     inset: false,
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
-    title: 'The Title Text of this Story',
+    title: 'Art Murals for Leni/Kiko in Marikina',
     subtitle: 'A descriptive and interesting subtitle to draw in the reader',
-    byline: 'By a Digital Storyteller',
+    byline: 'By Mappers 4 Leni/Kiko',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
@@ -23,7 +23,7 @@ var config = {
             description: 'I. Mendoza near Rustic Mornings.  Artist: Uknown',
             location: {
                 center: [121.09605, 14.62926],
-                zoom: 20,
+                zoom: 19,
                 pitch: 60,
                 bearing: 176
             },
@@ -48,12 +48,12 @@ var config = {
             id: 'second-identifier',
             alignment: 'right',
             hidden: false,
-            title: 'Second Title',
-            image: './path/to/image/source.png',
-            description: 'Near water station',
+            title: '17 JP Rizal Calumpang, Marikina',
+            image: './images/jprizal.jpg',
+            description: 'Artists: Uknown',
             location: {
                 center: [121.09269, 14.62263],
-                zoom: 20,
+                zoom: 19,
                 pitch: 60,
                 bearing: -88,
                 // flyTo additional controls-
@@ -73,14 +73,14 @@ var config = {
             id: 'third-identifier',
             alignment: 'left',
             hidden: false,
-            title: 'Third Title',
+            title: 'Abad Santos San Roque, Marikina',
             image: './path/to/image/source.png',
             description: 'Copy these sections to add to your story.',
             location: {
-                center: [6.15116, 46.20595],
-                zoom: 12.52,
-                pitch: 8.01,
-                bearing: 0.00
+                center: [121.09745, 14.62315],
+                zoom: 19,
+                pitch: 60,
+                bearing: -70
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
