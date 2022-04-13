@@ -28,7 +28,7 @@ var config = {
                 bearing: 167
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: false,
+            rotateAnimation: true,
             callback: '',
             onChapterEnter: [
                 // {
@@ -83,7 +83,7 @@ var config = {
                 bearing: -70
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: false,
+            rotateAnimation: true,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
